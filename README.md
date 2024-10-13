@@ -1,5 +1,16 @@
-# 💫 About Me:
-I am Audumber Shirodkar. I am a passionate web developer with mastery in react and nextjs.
+🌐 About Me
+
+Hi there! I'm Audumber Shirodkar, a passionate Full Stack Web Developer with a strong foundation in both front-end and back-end technologies. Currently pursuing a Bachelor of Engineering in Computer Science at Goa College of Engineering, I thrive on building innovative solutions that enhance user experiences.
+
+🚀 Projects
+
+I enjoy working on personal projects that challenge my skills and creativity.
+
+🤝 Let’s Connect!
+
+Feel free to explore my repositories, and don't hesitate to reach out if you’d like to collaborate or chat about web development!
+
+
 
 
 ## 🌐 Socials:
