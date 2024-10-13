@@ -9,8 +9,7 @@ I enjoy working on personal projects that challenge my skills and creativity.
 🤝 Let’s Connect!
 
 Feel free to explore my repositories, and don't hesitate to reach out if you’d like to collaborate or chat about web development!
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"></img>
 
 
 ## 🌐 Socials:
