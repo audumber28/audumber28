@@ -1,4 +1,5 @@
 🌐 About Me
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"></img>
 
 Hi there! I'm Audumber Shirodkar, a passionate Full Stack Web Developer with a strong foundation in both front-end and back-end technologies. Currently pursuing a Bachelor of Engineering in Computer Science at Goa College of Engineering, I thrive on building innovative solutions that enhance user experiences.
 
@@ -12,7 +13,7 @@ Feel free to explore my repositories, and don't hesitate to reach out if you’d
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"></img>
+
 
 
 ## 🌐 Socials:
