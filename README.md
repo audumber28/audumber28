@@ -1,10 +1,5 @@
-# 💫 About Me:
-🌐 About Me<br><h1>Audumber Shirodkar</h1><br><br><br><br><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"></img><br><br>Hi there! I'm Audumber Shirodkar, a passionate Full Stack Web Developer with a strong foundation in both front-end and back-end technologies. Currently pursuing a Bachelor of Engineering in Computer Science at Goa College of Engineering, I thrive on building innovative solutions that enhance user experiences.<br><br>🚀 Projects<br><br>I enjoy working on personal projects that challenge my skills and creativity.<br><br>🤝 Let’s Connect!<br><br>Feel free to explore my repositories, and don't hesitate to reach out if you’d like to collaborate or chat about web development!
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/audumber28) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://instagram.com/audumber28](https://www.linkedin.com/in/audumber-shirodkar-a007072b5/))
 
 🌐 About Me<br><h1>Audumber Shirodkar</h1><br><br><br><br><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"></img><br><br>Hi there! I'm Audumber Shirodkar, a passionate Full Stack Web Developer with a strong foundation in both front-end and back-end technologies. Currently pursuing a Bachelor of Engineering in Computer Science at Goa College of Engineering, I thrive on building innovative solutions that enhance user experiences.<br><br>🚀 Projects<br><br>I enjoy working on personal projects that challenge my skills and creativity.<br><br>🤝 Let’s Connect!<br><br>Feel free to explore my repositories, and don't hesitate to reach out if you’d like to collaborate or chat about web development!
 
@@ -15,6 +10,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=audumber@28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=audumber@28&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=audumber@28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/audumber28) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://instagram.com/audumber28](https://www.linkedin.com/in/audumber-shirodkar-a007072b5/))
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=audumber@28&theme=radical&no-frame=false&no-bg=true&margin-w=4)
