@@ -1,5 +1,6 @@
 🌐 About Me
-<img src="https://via.placeholder.com/500x100.png?text=Audumber+Shirodkar&bg=ffffff&color=b91c1c" alt="Audumber Shirodkar">
+<h1>Audumber Shirodkar</h1>
+
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"></img>
