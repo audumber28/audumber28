@@ -1,8 +1,8 @@
 <h1 align="center">🌐 Audumber Shirodkar</h1>
 
 <p align="center">
-  <!-- Cute cartoon-style GIF -->
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200px" alt="Shinchan coding" />
+  <!-- Naruto animation GIF -->
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="250px" alt="Naruto Running" />
 </p>
 
 ---
