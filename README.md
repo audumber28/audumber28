@@ -1,10 +1,8 @@
-<!-- README.md for GitHub Profile -->
-
 <h1 align="center">🌐 Audumber Shirodkar</h1>
 
 <p align="center">
-  <!-- Cartoon-style Lottie animation -->
-  <img src="https://lottie.host/7dcdd74b-51de-48ee-8c3b-e2772356d95a/Bf9nIbeF64.json" width="300px" />
+  <!-- Cute cartoon-style GIF -->
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200px" alt="Shinchan coding" />
 </p>
 
 ---
@@ -78,4 +76,4 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 
 ---
 
-🎯 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+🎯 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
