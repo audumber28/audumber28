@@ -1,9 +1,10 @@
-<!-- Profile ReadMe -->
+<!-- README.md for GitHub Profile -->
 
 <h1 align="center">🌐 Audumber Shirodkar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Next.js+%7C+React+%7C+Node+Enthusiast;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80&center=true&width=500&height=45&pause=1000&color=F7DF1E&vCenter=true&font=Fira+Code" />
+  <!-- Cartoon-style Lottie animation -->
+  <img src="https://lottie.host/7dcdd74b-51de-48ee-8c3b-e2772356d95a/Bf9nIbeF64.json" width="300px" />
 </p>
 
 ---
@@ -15,7 +16,8 @@ I love building **innovative** and **user-focused** solutions that solve real-wo
 ---
 
 ## 🚀 Projects
-I enjoy working on personal and collaborative projects that challenge my skills and creativity. Check out my repositories to explore more.
+I enjoy working on personal and collaborative projects that challenge my skills and creativity.  
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about tech! 💬
 
 ---
 
@@ -26,7 +28,7 @@ I enjoy working on personal and collaborative projects that challenge my skills 
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -76,4 +78,4 @@ I enjoy working on personal and collaborative projects that challenge my skills 
 
 ---
 
-🎯 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+🎯 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
