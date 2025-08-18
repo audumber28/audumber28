@@ -65,7 +65,7 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 ---
 
 ## 📊 GitHub Stats:
-<picture>
+<picture  align="center">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
