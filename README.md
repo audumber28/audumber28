@@ -79,6 +79,8 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+<br>
+<br>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=audumber28&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=audumber28&show_icons=true&theme=radical&hide_border=true" />
