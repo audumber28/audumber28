@@ -65,6 +65,14 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 ---
 
 ## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=audumber28&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=audumber28&bg_color=0d1117&color=ff7d00&line=ff7d00&point=ff7d00&area=true&hide_border=true" />
+</p>
+
 
 ---
 
