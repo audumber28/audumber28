@@ -65,27 +65,6 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 ---
 
 ## 📊 GitHub Stats:
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-<br>
-<br>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=audumber28&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=audumber28&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audumber28&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ---
 
