@@ -1,0 +1,11 @@
+# Compiled assembly files
+*.o
+*.out
+original_program
+rewritten_program
+debug
+test_programs
+
+# Temporary files
+/tmp/
+.DS_Store
